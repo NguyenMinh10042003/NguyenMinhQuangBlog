@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/sitemap.xml
