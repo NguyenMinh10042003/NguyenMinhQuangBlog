@@ -3,7 +3,7 @@
     <title>NguyenMinhQuangBlog</title>
     <link href="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/feed.xml" rel="self" />
     <link href="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog" />
-    <updated>2024-12-30T20:35:32+07:00</updated>
+    <updated>2024-12-30T21:31:15+07:00</updated>
     <author>
         <name>Nguyen Minh Quang</name>
     </author>
@@ -758,18 +758,18 @@
         </author>
         <link href="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/xu-ly-ngoai-le-exception-handling-trong-java.html"/>
         <id>https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/xu-ly-ngoai-le-exception-handling-trong-java.html</id>
-        <media:content url="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/media/posts/5/img_5a0d9d7e54d5f.png" medium="image" />
+        <media:content url="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/media/posts/5/Exception-flow-Java-Exception-Handling-Edureka.png" medium="image" />
 
         <updated>2024-12-30T20:25:58+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/media/posts/5/img_5a0d9d7e54d5f.png" alt="" />
+                        <img src="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/media/posts/5/Exception-flow-Java-Exception-Handling-Edureka.png" alt="" />
                     Trong lập trình, ngoại lệ (exception) là những sự kiện hoặc lỗi xảy ra khi chương trình đang chạy, có&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/media/posts/5/img_5a0d9d7e54d5f.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://NguyenMinh10042003.github.io/NguyenMinhQuangBlog/media/posts/5/Exception-flow-Java-Exception-Handling-Edureka.png" class="type:primaryImage" alt="" /></p>
                 <p>Trong lập trình, <strong>ngoại lệ</strong> (exception) là những sự kiện hoặc lỗi xảy ra khi chương trình đang chạy, có thể làm gián đoạn hoặc dừng chương trình nếu không được xử lý đúng cách. Xử lý ngoại lệ là một phần quan trọng trong việc viết mã an toàn và ổn định. Java cung cấp cơ chế <strong>Exception Handling</strong> mạnh mẽ để giúp lập trình viên xử lý các ngoại lệ và đảm bảo rằng chương trình vẫn tiếp tục chạy mà không gặp phải sự cố nghiêm trọng.</p>
 <h3>Các thành phần của Exception Handling trong Java</h3>
 <p>Java sử dụng các cấu trúc cơ bản như <code>try</code>, <code>catch</code>, <code>finally</code>, và <code>throw</code> để xử lý ngoại lệ.</p>
